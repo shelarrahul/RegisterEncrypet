@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "registerEncrept", "registerEncrept.csproj", "{48A420F2-4242-4253-BC75-277B40A93513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A420F2-4242-4253-BC75-277B40A93513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A420F2-4242-4253-BC75-277B40A93513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A420F2-4242-4253-BC75-277B40A93513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A420F2-4242-4253-BC75-277B40A93513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A65A98B-F138-4805-9291-5172A4655011}
+	EndGlobalSection
+EndGlobal
